@@ -9,7 +9,7 @@ function Business() {
           src="https://d9hhrg4mnvzow.cloudfront.net/templates.unbounce.com/freshgoods/ef9d9b9f-freshgoods-about_100000000000000000001o.jpg"
         ></img>
 
-        <h1 className="text-3xl font-bold max-sm:order-first ">
+        <h1 className="text-5xl font-bold max-sm:order-first ">
           Some more <br></br> information about <br></br>your business
         </h1>
         <h1 className="text-lg mt-5 col-start-2  ">

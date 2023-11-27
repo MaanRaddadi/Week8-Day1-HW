@@ -3,9 +3,10 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      fontFamily: {
-        display: ["Montserrat", "Sans-serif"],
-      },
+     
+    },
+    fontFamily: {
+      display: ["Montserrat", "Sans-serif"],
     },
   },
   plugins: [],
